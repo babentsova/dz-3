@@ -1,0 +1,35 @@
+<Course>
+  <CourseName>AutomationQA</CourseName>
+  <EducationForm>Online</EducationForm>
+  <Lessons>44</Lessons>
+  <Students>88</Students>
+  <Student>
+    <FirstName>Oleksandra</FirstName>
+    <LastName>Chala</LastName>
+    <Age>38</Age>
+    <IsActive>true</IsActive>
+  </Student>
+  <Student>
+    <FirstName>Ivan</FirstName>
+    <LastName>Ivanov</LastName>
+    <Age>54</Age>
+    <IsActive>false</IsActive>
+  </Student>
+  <Lectors>
+    <Lector>
+      <Name>Oleksandr</Name>
+      <LastName>Podoliako</LastName>
+      <Company>EPAM</Company>
+      <Position>Lead Software Test Automation Engineer</Position>
+      <Experience>11</Experience>
+    </Lector>
+    <Lector>
+      <Name>Iryna</Name>
+      <LastName>Kolodyazhna</LastName>
+      <Company>Ciklum</Company>
+      <Position>Automation QA Lead</Position>
+      <Experience>9</Experience>
+    </Lector>
+  </Lectors>
+  <IsFree>false</IsFree>
+</Course>

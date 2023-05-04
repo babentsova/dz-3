@@ -1,0 +1,26 @@
+{
+"CourseName": "AutomationQA",
+"EducationForm":"Online",
+"Lessons":44,
+"Students":88,
+   "1":["Oleksandra","Chala", 38, true ],
+   "2":["Ivan", "Ivanov", 54, false],
+"Lectors":[
+   {
+   "Name": "Oleksandr",
+   "LastName": "Podoliako",
+   "Company":"EPAM",
+   "Position":"Lead Software Test Automation Engineer",
+   "Experience":11
+   },
+   {
+   "Name": "Iryna",
+   "LastName": "Kolodyazhna",
+   "Company":"Ciklum",
+   "Position":"Automation QA Lead",
+   "Experience":9
+   }
+  ], 
+"IsFree":false
+}
+
